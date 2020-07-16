@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  uCOS_xxxxxxxx.c
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\uCOS-II\Ports\Win32\os_cpu.h(45,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT'
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\uCOS_xxxxxxxx.c(66,12): warning C4013: 'IOWR_em' undefined; assuming extern returning int
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\uCOS_xxxxxxxx.c(73,23): warning C4013: 'update_led_display' undefined; assuming extern returning int
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\uCOS_xxxxxxxx.c(75,23): warning C4013: 'update_hex_display' undefined; assuming extern returning int
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\uCOS_xxxxxxxx.c(236,14): warning C4013: 'allocate_mem' undefined; assuming extern returning int
+  uCOSII.vcxproj -> C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\.\Debug\uCOSII.exe

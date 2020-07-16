@@ -1,0 +1,2 @@
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\Debug\uCOSII.exe
+C:\Users\jaisi\OneDrive\Documents\Utils\UNI\ECE3073\Labs\SoftwareForStudents\SoftwareForStudents\EvalBoards\Microsoft\Windows XP\Visual Studio\Ex1-OS\Debug\uCOSII.pdb
